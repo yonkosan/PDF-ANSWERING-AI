@@ -1,0 +1,6 @@
+gensim
+PyMuPDF
+nltk
+scikit-learn
+streamlit
+numpy
