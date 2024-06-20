@@ -6,8 +6,8 @@ This project is a PDF question answering (QA) system that leverages natural lang
 To Run the Pogramme in your system you need to: 
 - clone the repo 
 ```bash
-git clone github link
-cd repo_name
+git clone https://github.com/yonkosan/PDF-ANSWERING-AI.git
+cd PDF-ANSWERING-AI
 ```
 - install the required packages
 ```bash
